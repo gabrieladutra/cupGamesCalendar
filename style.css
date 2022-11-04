@@ -12,7 +12,7 @@
       background-color: #121214;
       background-image: url(./assets/bg.svg);
       background-position-x: center;
-      background-position-y: 55.6%;
+      background-position-y: -715px;
   }
   
   body * {
@@ -26,6 +26,7 @@
   
   header {
       margin-bottom: 63px;
+      text-align: center;
   }
   
   .card {
@@ -82,7 +83,8 @@
       color: #E1E1E6;
   }
   
-  .flag {
-      width: 50px;
-      height: 50px;
+  #cards {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
   }
