@@ -31,17 +31,20 @@
       body {
           background-color: #121214;
           background-image: var(--bg);
-          background-position-x: center;
-          background-position-y: -715px;
-      }
-      
-      body * {
-          font-family: 'Roboto', sans-serif;
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
       }
       
       #app {
           width: fit-content;
-          margin: 52px auto;
+          margin: auto;
+          padding-top: 52px;
+      }
+      
+      body * {
+          font-family: 'Roboto', sans-serif;
       }
       
       header {
