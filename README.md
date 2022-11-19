@@ -1,8 +1,5 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center">Calendário de Jogos da Copa</h1>
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
